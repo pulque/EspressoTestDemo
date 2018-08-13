@@ -13,7 +13,7 @@
 ### 1. 参考资料
 Espresso官方开发文档： 
 https://developer.android.com/training/testing/espresso/?hl=zh-cn   
-Espresso官方开发文档： 
+Espresso官方实例： 
 https://github.com/googlesamples/android-testing  
 ### 2. 代码设计
 先用录制工具初始化大部分代码，然后根据实际需求修改。  
